@@ -1,0 +1,13 @@
+ModCFG
+{
+    title = Joystick Display
+    author = godarklight
+    modVersion = 0.1.0
+    Plugin
+    {
+        name = Joystick Display
+        description = Show the position of your sticks on screen
+        asmpath = Addons\JoystickDisplay\JoystickDisplay.dll
+        order = 100
+    }
+} 
